@@ -1,5 +1,19 @@
 {
+  "name": "rpg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "dependencies": {
-    "jest": "^28.1.0"
+    "inquirer": "^7.0.3",
+    "jest": "^24.9.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^27.5.1"
   }
 }
