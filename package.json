@@ -12,8 +12,5 @@
   "dependencies": {
     "inquirer": "^7.0.3",
     "jest": "^24.9.0"
-  },
-  "devDependencies": {
-    "@types/jest": "^27.5.1"
   }
 }
